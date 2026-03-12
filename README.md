@@ -1,0 +1,5 @@
+Acest proiect prezintă dezvoltarea unui sistem demonstrativ de tip Blind Spot Monitoring (BSM), inspirat de soluțiile avansate utilizate în industria auto de companii precum Bosch și Continental AG. Funcționalitatea principală constă în detectarea obiectelor aflate în unghiul mort și avertizarea utilizatorului în mod clar și intuitiv, prin semnale vizuale și sonore.
+
+Sistemul integrează senzori ultrasonici pentru monitorizarea constantă a zonelor laterale, oferind o experiență interactivă prin aprinderea unui LED la detectarea unui obstacol și printr-un semnal sonor atunci când se inițiază o schimbare de bandă. Această interacțiune oferă utilizatorului o perspectivă asupra modului în care tehnologiile de siguranță active sprijină prevenirea accidentelor și creșterea conștientizării în trafic.
+
+Proiectul marchează un pas semnificativ în înțelegerea sistemelor auto moderne de asistență a șoferului, combinând elemente de electronică, programare și simulare funcțională. Scopul principal a fost crearea unui prototip educațional și practic, care să redea comportamentul real al unui sistem BSM într-un mod accesibil și intuitiv.
